@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://media.istockphoto.com/photos/winter-mountains-panorama-with-ski-slopes-and-ski-lifts-picture-id909307378?k=20&m=909307378&s=612x612&w=0&h=sh9Wxy62L1bLb53Eh9F5k-cSDUtyLsRT1Xj34yc7d5Y=);
+    text-align: center;
+    background-size: cover;
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: darkred;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    position: relative;
+    bottom: +95;
+    z-index: 1;
+    
+}
+
+#save-btn {
+    background-color: green;
+}
+#welcome-el {
+    color: black;
+    
+}
